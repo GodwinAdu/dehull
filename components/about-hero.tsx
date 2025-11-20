@@ -45,7 +45,7 @@ export function AboutHero() {
                     <div className="relative animate-slide-in-left">
                         <div className="relative h-96 lg:h-[500px] rounded-2xl overflow-hidden shadow-2xl">
                             <Image
-                                src="/about-us-construction-team-professional.jpg"
+                                src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&h=600&fit=crop&crop=center"
                                 alt="Dehull Zion Ventures construction team"
                                 fill
                                 className="object-cover"

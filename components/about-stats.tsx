@@ -9,7 +9,7 @@ const stats = [
         description: "Completed across residential and commercial sectors",
     },
     {
-        number: "15+",
+        number: "6+",
         label: "Years of Experience",
         description: "Building expertise and trust in the industry",
     },

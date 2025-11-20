@@ -43,7 +43,7 @@ const services = [
         duration: "2-5 days",
         warranty: "10 years",
         slug: "dampness-treatment",
-        image: "/damp-treatment-construction-work.jpg",
+        image: "https://media.istockphoto.com/id/184981137/photo/rising-dampness.webp?a=1&b=1&s=612x612&w=0&k=20&c=5fN0e09xQ_KipCiKUScLD44wMkAAP3GNgHpdmSb5GXk=",
     },
     {
         icon: Zap,
@@ -67,7 +67,7 @@ const services = [
         duration: "1-3 days",
         warranty: "6 months",
         slug: "industrial-cleaning",
-        image: "/industrial-cleaning-equipment-machinery.jpg",
+        image: "https://images.unsplash.com/photo-1669101602108-fa5ba89507ee?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SW5kdXN0cmlhbCUyMENsZWFuaW5nfGVufDB8fDB8fHww",
     },
     {
         icon: Paintbrush,
@@ -86,7 +86,7 @@ const services = [
         duration: "3-7 days",
         warranty: "5 years",
         slug: "painting-services",
-        image: "/professional-painting-service-building-exterior.jpg",
+        image: "https://images.unsplash.com/photo-1562259949-e8e7689d7828?w=800&h=600&fit=crop&crop=center",
     },
     {
         icon: Waves,
@@ -105,7 +105,7 @@ const services = [
         duration: "2-10 days",
         warranty: "3 years",
         slug: "pool-repairs",
-        image: "/swimming-pool-repair-maintenance-blue-water.jpg",
+        image: "https://images.unsplash.com/photo-1572331165267-854da2b10ccc?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHN3aW1taW5nJTIwcG9vbHxlbnwwfHwwfHx8MA%3D%3D",
     },
     {
         icon: Shield,
@@ -129,7 +129,7 @@ const services = [
         duration: "1-5 days",
         warranty: "7 years",
         slug: "roof-repairs",
-        image: "/roof-repair-construction-worker-fixing-tiles.jpg",
+        image: "https://media.istockphoto.com/id/2160402560/photo/construction-worker-is-inspecting-roof-tile-cracked.webp?a=1&b=1&s=612x612&w=0&k=20&c=KLRSI4Fj0BKxRj52ic2ZqdkfMrX4doYu3RJZlWrQOiw=",
     },
     {
         icon: Home,
@@ -153,7 +153,7 @@ const services = [
         duration: "2-7 days",
         warranty: "5 years",
         slug: "concrete-repairs",
-        image: "/concrete-repair-construction-tie-holes-honeycomb.jpg",
+        image: "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&h=600&fit=crop&crop=center",
     },
     {
         icon: Shield,
@@ -177,7 +177,7 @@ const services = [
         duration: "2-4 days",
         warranty: "8 years",
         slug: "fibre-coatings",
-        image: "/fibre-coating-application-protective-surface-treat.jpg",
+        image: "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800&h=600&fit=crop&crop=center",
     },
     {
         icon: Building,
@@ -201,7 +201,7 @@ const services = [
         duration: "1-12 weeks",
         warranty: "2 years",
         slug: "general-construction",
-        image: "/general-construction-building-site-workers.jpg",
+        image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&h=600&fit=crop&crop=center",
     },
     {
         icon: Droplets,
@@ -225,7 +225,7 @@ const services = [
         duration: "3-10 days",
         warranty: "10 years",
         slug: "waterproofing",
-        image: "/waterproofing-basement-tank-sealing-construction.jpg",
+        image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop&crop=center",
     },
 ]
 

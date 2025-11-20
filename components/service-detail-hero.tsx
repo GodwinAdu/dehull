@@ -2,7 +2,7 @@
 
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
-import { ArrowLeft, Clock, Award, Phone, ArrowRight, Droplets, Paintbrush, Zap } from "lucide-react"
+import { ArrowLeft, Clock, Award, Phone, ArrowRight, Droplets, Paintbrush, Zap, Waves, Shield, Home, Building } from "lucide-react"
 import Image from "next/image"
 import Link from "next/link"
 import type { Service } from "@/lib/services-data"
@@ -15,10 +15,14 @@ const iconMap = {
     Droplets,
     Paintbrush,
     Zap,
+    Waves,
+    Shield,
+    Home,
+    Building,
 }
 
 export function ServiceDetailHero({ service }: ServiceDetailHeroProps) {
-    const Icon = iconMap[service.icon as keyof typeof iconMap]
+    const Icon = iconMap[service.icon as keyof typeof iconMap] || Droplets
 
     return (
         <section className="pt-20 pb-16 bg-gradient-to-br from-primary to-primary/80 relative overflow-hidden">

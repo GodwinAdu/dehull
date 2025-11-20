@@ -9,7 +9,7 @@ const teamMembers = [
     {
         name: "Emmanuel Dehull",
         position: "Founder & CEO",
-        image: "/team-member-ceo-construction-professional.jpg",
+        image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
         bio: "With over 15 years of experience in construction and project management, Emmanuel leads our team with vision and expertise.",
         specialties: ["Project Management", "Strategic Planning", "Client Relations"],
         contact: {
@@ -20,7 +20,7 @@ const teamMembers = [
     {
         name: "Diana Hokyere",
         position: "Operations Manager",
-        image: "/team-member-operations-manager-professional.jpg",
+        image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=400&fit=crop&crop=face",
         bio: "Diana ensures smooth operations and quality control across all our projects, bringing precision and attention to detail.",
         specialties: ["Operations Management", "Quality Control", "Team Coordination"],
         contact: {
@@ -31,7 +31,7 @@ const teamMembers = [
     {
         name: "Technical Team",
         position: "Skilled Professionals",
-        image: "/team-construction-workers-professionals.jpg",
+        image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=400&fit=crop&crop=center",
         bio: "Our experienced team of technicians, engineers, and craftsmen bring specialized skills to every project.",
         specialties: ["Technical Expertise", "Safety Compliance", "Quality Craftsmanship"],
         contact: {

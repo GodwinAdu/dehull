@@ -10,7 +10,9 @@ import { ProjectShowcase } from "@/components/project-showcase"
 import { CTASection } from "@/components/cta-section"
 import { TestimonialsCarousel } from "@/components/testimonials-carouse"
 
-export default function HomePage() {
+
+export default async function HomePage() {
+  
   return (
     <>
       <SEOSchema />

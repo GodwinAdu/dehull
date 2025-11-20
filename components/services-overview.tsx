@@ -10,8 +10,8 @@ const services = [
         icon: Droplets,
         title: "Treatment of Rising Dampness",
         description:
-            "Professional damp proofing solutions to protect your property from moisture damage and structural issues.",
-        features: ["Moisture assessment", "Chemical injection", "Membrane installation"],
+            "Professional damp proofing solutions to protect your property from moisture damage and structural defects.",
+        features: ["Moisture assessment", "Integral Waterproofing solution",],
         slug: "dampness-treatment",
     },
     {
@@ -30,7 +30,7 @@ const services = [
     },
     {
         icon: Waves,
-        title: "Swimming Pool Repairs",
+        title: "Swimming Pool Constructions & Repairs",
         description: "Complete pool maintenance, repair, and renovation services to keep your pool in perfect condition.",
         features: ["Leak detection", "Surface repair", "Equipment servicing"],
         slug: "pool-repairs",
@@ -67,8 +67,15 @@ const services = [
         icon: Droplets,
         title: "Waterproofing Treatment",
         description: "Complete waterproofing solutions for tanks, basements, lift chambers, and more.",
-        features: ["Basement waterproofing", "Tank sealing", "Structural protection"],
+        features: ["Basement waterproofing", "Tank sealing", "Structural protection",],
         slug: "waterproofing",
+    },
+    {
+        icon: Droplets,
+        title: "Quality Waterproofing Solutions for Fresh Concrete",
+        description: "Specialized waterproofing treatments designed to protect fresh concrete structures from water ingress and damage.",
+        features: ["Surface protection", "Water resistance", "Durability enhancement","Life span"],
+        slug: "fresh-concrete-waterproofing",
     },
 ]
 
